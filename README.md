@@ -14,6 +14,6 @@ Each kata builds on the code from the last kata.  **You are encouraged to make y
 
 ### Required Software
 
-1. [Install OpenJDK Java 11](https://www.oracle.com/technetwork/java/javase/downloads/index.html) appropriate to your operating system.  Note that Oracle JDK and OpenJDK are converaging.  The difference between Oracle's official version and the OpenJDK version used to be an issue in earlier versions (especially Java 8).  This is no longer the case.  You are encouraged to use the OpenJDK version of Java 11.
+1. [Install Java 11](https://www.oracle.com/technetwork/java/javase/downloads/index.html) appropriate to your operating system.
 2. [Install Gradle version 5.2 or higher](https://gradle.org/install/#manually).  If you're on a Mac with Homebrew, a simple `brew install gradle` will install it in a few minutes.
 3. [Install JetBrain's Intellij IDE](https://www.jetbrains.com/idea/download/).  Either the Ultimate version or the Community version can be used.
