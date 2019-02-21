@@ -33,7 +33,7 @@ public class Foo {
 
 Sensible package identifiers start with the organization's website in reverse.  For example, if my website was iowashoes.com, my package would start out as `com.iowashoes`.
 
-### Kata and requirements
+### Kata requirements
 
 **Recommendation**: use a program other than Intellij for this kata.  VSCode, Atom, Sublime, or even just Terminal can be used.
 
