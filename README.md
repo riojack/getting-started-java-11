@@ -2,6 +2,7 @@
 This repository provides a set of katas that builds from almost nothing to a fully functioning REST API.
 
 Here are the katas:
+  - Kata: Set up the project in the classic Java web app directory layout.
   - Kata: Use Gradle as a dependency management system, similar to Maven, NPM, or NuGet.
   - Kata: Use Gradle as a build and release management system, similar to Yarn or Maven.
   - Kata: Rapidly stand up a REST API using Spring Boot with a test-driven controllers.
