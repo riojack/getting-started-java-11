@@ -27,7 +27,7 @@ Notice also that under `src/main` are the nested directories: `org/my/package`. 
 package org.my.package
 
 public class Foo {
-  // ...
+  // ...zx
 }
 ```
 
