@@ -45,3 +45,5 @@ The layout must:
 - Include a Java test class file in `src/test/com/your/package`.  The Java test class should have a class; the class can be empty.
 
 Commit and push when you're done.
+
+Next kata: [Use Gradle as a dependency management system](kata.dependency_management.md).
