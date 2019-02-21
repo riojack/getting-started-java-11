@@ -1,0 +1,16 @@
+
+.idea/
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+*.iml
+build/
+out/
+bin/
+.vscode/
+.settings/
+.classpath
+.project
+.DS_Store
+*.log
