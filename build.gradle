@@ -1,0 +1,19 @@
+plugins {
+  id 'java'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+}
+
+// If you ever need to create a custom task in Gradle
+// this is how it is done...
+tasks.register("hello") {
+  println 'Hello, world!'
+  // In terminal or the command line, run this task with...
+  //    gradle hello
+}
