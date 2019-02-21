@@ -1,8 +1,8 @@
 # getting-started-java-11
 This repository provides a set of katas that builds from almost nothing to a fully functioning REST API.
 
-Here are the katas:
-  - Kata: Set up the project in the classic Java web app directory layout.
+Here are the katas in order:
+  - Kata: [Set up the project in the classic Java project layout style](docs/kata.project_layout.md).
   - Kata: Use Gradle as a dependency management system, similar to Maven, NPM, or NuGet.
   - Kata: Use Gradle as a build and release management system, similar to Yarn or Maven.
   - Kata: Rapidly stand up a REST API using Spring Boot with a test-driven controllers.
@@ -10,7 +10,7 @@ Here are the katas:
   - Kata: Hook up OAuth2 authentication, using Spring, to individual endpoints through the use of JSON Web Tokens (JWTs).
   - Kata: Build on the OAuth2 authenication system by adding authorization through client claims.
 
-Each kata builds on the code from the last kata.  You are encouraged to make your own fork of this repository.
+Each kata builds on the code from the last kata.  **You are encouraged to make your own fork of this repository.**
 
 ### Required Software
 
