@@ -26,6 +26,18 @@ For example, to install Apache's Common Lang3 dependency, you would specify it t
 implementation 'org.apache.commons:commons-lang3:3.8.1'
 ```
 
-## Search for dependencies
+## Search for dependencies on the interwebz
+
+Artifact repositories will usually have a web interface that you can use to search for artifacts.  Maven Central has a search frontend here: https://search.maven.org/.
+
+The best way to search is with the package id (like `org.apache`) and/or the artifact id.  For example, to find the Common Lang3 dependency above, you could search `org.apache commons` on search.maven.org.
 
 ### Kata requirements
+
+1. Install JUnit (either 4 or 5) by locating it on search.maven.org.  Note that there are several "mirrored" versions of JUnit that you probably don't want.  Look for the JUnit artifact whose package begins with `org.junit`.
+2. Install Spring Boot.  Note that this is actually kind of tricky.  Spring Boot itself is a massive collection of Spring dependencies.  Head to [the Gradle section of the Spring Boot guide](https://spring.io/guides/gs/spring-boot/#scratch) for help on this.  Replace `compile(...)` with `implementation`.  The two commands are synonymous but `implementation` is preferred.
+3. Run `gradle build`.  This will pull down JUnit and Spring Boot.
+
+Commit your `build.gradle` file and push it up.
+
+Next kata: [Use Gradle as a build and release management system](kata.dependency_management.md).
