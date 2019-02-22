@@ -4,7 +4,6 @@ This repository provides a set of katas that builds from almost nothing to a ful
 Here are the katas in order:
   - Kata: [Set up the project in the classic Java project layout style](docs/kata.project_layout.md).
   - Kata: [Use Gradle as a dependency management system](docs/kata.dependency_management.md).
-  - Kata: Use Gradle as a build and release management system, similar to Yarn or Maven.
   - Kata: Rapidly stand up a REST API using Spring Boot with a test-driven controllers.
   - Kata: Hook up a relational database to the REST API using Spring Data's powerful dynamic repository pattern.
   - Kata: Hook up OAuth2 authentication, using Spring, to individual endpoints through the use of JSON Web Tokens (JWTs).
