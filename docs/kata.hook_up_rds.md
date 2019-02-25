@@ -8,3 +8,5 @@ Spring Data uses the Java Persistence API (JPA) to provide a way to integrate a 
 2. Once you've completed the tutorial, ponder this question: (1) is it worth testing the repository in unit or integration tests?
 3. The application must be runnable from the command line.
 4. The interface you create should have the method `findByLastName`.
+
+Next kata: [Weave it all together with Dependency Injection](kata.dependency_injection.md).
