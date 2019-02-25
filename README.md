@@ -7,8 +7,8 @@ Here are the katas in order:
   - Kata: [Rapidly stand up a REST API using Spring Boot](docs/kata.spring_boot_fast.md).
   - Kata: [Hook up a relational database to the REST API](docs/kata.hook_up_rds.md) using Spring Data's powerful dynamic repository pattern.
   - Kata: [Weave it all together with Dependency Injection](docs/kata.dependency_injection.md).
-  - Kata: Hook up OAuth2 authentication, using Spring, to individual endpoints through the use of JSON Web Tokens (JWTs).
-  - Kata: Build on the OAuth2 authenication system by adding authorization through client claims.
+  - TODO -> Kata: Hook up OAuth2 authentication, using Spring, to individual endpoints through the use of JSON Web Tokens (JWTs).
+  - TODO -> Kata: Build on the OAuth2 authenication system by adding authorization through client claims.
 
 Each kata builds on the code from the last kata.  **You are encouraged to make your own fork of this repository.**
 
