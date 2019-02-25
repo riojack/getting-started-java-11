@@ -1,0 +1,12 @@
+## Rapidly stand up a REST API using Spring Boot
+
+This should be pretty simple.  Let's stand up a very simple Spring Boot application.
+
+### Kata requirements
+
+Using the project structure that you've built so far, stand up a Spring Boot application.  Follow this tutorial provided by Spring: [Start an Application with Spring Boot](https://spring.io/guides/gs/spring-boot).
+
+1. Complete the Spring Boot tutorial through the "Run the Application" step.  Do not worry about tests just yet.
+2. The application must be runnable from the command line.
+3. Must use Gradle (not Maven).
+
