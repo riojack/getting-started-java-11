@@ -4,5 +4,6 @@ Spring Data uses the Java Persistence API (JPA) to provide a way to integrate a 
 
 ### Kata requirements
 
-1. Begin by following Spring Data's [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/) tutorial and integrating Spring Data into your existing REST application.  Carefully note that there are some new dependencies tossed into the build.gradle file: spring-boot-starter-data-jpa and H2.  The spring-boot-starter-data-jpa dependency provides Spring Data goodies while H2 is an in-memory SQL database.
+1. Begin by following Spring Data's [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/) tutorial and integrating Spring Data into your existing REST application.  Do not worry about the "Create an Application class" section for now. Carefully note that there are some new dependencies tossed into the build.gradle file: spring-boot-starter-data-jpa and H2.  The spring-boot-starter-data-jpa dependency provides Spring Data goodies while H2 is an in-memory SQL database.
 2. Once you've completed the tutorial, ponder this question: (1) is it worth testing the repository in unit or integration tests?
+3. The application must be runnable from the command line.
