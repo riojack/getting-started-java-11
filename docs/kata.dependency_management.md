@@ -40,4 +40,4 @@ The best way to search is with the package id (like `org.apache`) and/or the art
 
 Commit your `build.gradle` file and push it up.
 
-Next kata: [Use Gradle as a build and release management system](kata.dependency_management.md).
+Next kata: [Rapidly stand up a Spring Boot Application](kata.spring_boot_fast.md).
